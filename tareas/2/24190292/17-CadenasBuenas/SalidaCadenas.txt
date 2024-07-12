@@ -1,2 +1,0 @@
-	Cadena originla: xaaaabbbbBBBBAAAAd
-Cadena convertida a buena: xd
